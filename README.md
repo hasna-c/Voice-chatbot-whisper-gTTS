@@ -160,8 +160,7 @@ USER SPEAKS/TYPES
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
-cd Voice-chatbot
+git clone https://github.com/hasna-c/Voice-chatbot-whisper-gTTS
 ```
 
 2. **Create virtual environment**
