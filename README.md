@@ -1,6 +1,6 @@
 # Voice AI Chatbot
 
-A fully functional English-only voice-to-voice AI chatbot that converts speech to text, generates intelligent responses using LLaMA, and converts responses back to speech.
+A fully functional voice-to-voice AI chatbot that converts speech to text, generates intelligent responses using LLaMA, and converts responses back to speech.
 
 ## Features
 
